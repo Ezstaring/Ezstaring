@@ -5,13 +5,13 @@
 
 # Ezstaring
 
-**`Code Facilitator (Developer/Cybersecurity/Automation)`**
+**`Facilitador de código (Desarrollador / Ciberseguridad / Automatización)`**
 
-I'm an independent software engineering student. My projects are built from the ground up, from planning and designing to solving real-life problems with code. My objective is to be a visionary futurist, anchored in the idea that things should be simple, efficient, and innovative for the new generations and those that follow. I hope that you can help me in this objective, and my content is little, but it was very compromised with yours, so let's dude this  for 100 subscribers in my YouTube channel "[Ezstaring][youtube]".
+Soy estudiante independiente de ingeniería de software. Mis proyectos se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas reales con código. Mi objetivo es ser un futurista visionario, basado en la idea de que las cosas deben ser simples, eficientes e innovadoras para las nuevas generaciones y las que siguen. Espero que me ayuden con este objetivo. Mi contenido es escaso, pero está muy comprometido con el suyo, así que compartamos esta duda para conseguir 100 suscriptores en mi canal de YouTube "[Ezstaring][youtube]".
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Lenguajes y Tecnologias
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
