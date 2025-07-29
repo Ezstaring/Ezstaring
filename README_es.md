@@ -1,7 +1,4 @@
-<table align="right">
-<tr><td><a href="./README.md">English</a></tr></td>
-<tr><td><a href="./README_es.md">Spanish</a></tr></td>
-</table>
+<table align="right"><tr><td><a href="./README_es.md">Español</a></tr></td><tr><td><a href="./README.md">Ingles</a></tr></td></table>
 
 # Ezstaring
 
