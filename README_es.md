@@ -1,5 +1,3 @@
-<table align="right"><tr><td><a href="./README_es.md">Español</a></tr></td><tr><td><a href="./README.md">Ingles</a></tr></td></table>
-
 # Ezstaring
 
 **`Facilitador de código (Desarrollador / Ciberseguridad / Automatización)`**
@@ -28,3 +26,5 @@ Soy estudiante independiente de ingeniería de software. Mis proyectos se constr
 <br />
 
 #
+
+<table align="center"><tr><td><a href="./README_es.md">Español</a></tr></td><tr><td><a href="./README.md">Ingles</a></tr></td></table>

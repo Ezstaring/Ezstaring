@@ -1,8 +1,3 @@
-<table align="right">
-<tr><td><a href="./README.md">English</a></tr></td>
-<tr><td><a href="./README_es.md">Spanish</a></tr></td>
-</table>
-
 # Ezstaring
 
 **`Code Facilitator (Developer/Cybersecurity/Automation)`**
@@ -31,3 +26,5 @@ I'm an independent software engineering student. My projects are built from the 
 <br />
 
 #
+
+<table align="center"><tr><td><a href="./README.md">English</a></tr></td><tr><td><a href="./README_es.md">Spanish</a></tr></td></table>
