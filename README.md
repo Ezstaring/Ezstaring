@@ -1,6 +1,6 @@
 <h1>Ezstaring </h1>
 
-**`Code Facilitator (Developer/Cybersecurity/Automation)`**
+**`Code Facilitator (Developer Backend)`**
 
 I'm an software engineering student.
 
