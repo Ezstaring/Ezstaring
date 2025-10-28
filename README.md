@@ -2,7 +2,7 @@
 
 **`Code Facilitator (Developer/Cybersecurity/Automation)`**
 
-I'm an independent software engineering student.
+I'm an software engineering student.
 
 ---
 
