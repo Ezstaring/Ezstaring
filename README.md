@@ -2,7 +2,7 @@
 
 **`Code Facilitator (Developer Backend)`**
 
-I'm an software engineering student.
+I'm a software engineering student.
 
 ---
 
