@@ -7,7 +7,7 @@ I'm a software engineer and I really like think out, about new experiences, new 
 ---
 <table>
   <tr>
-    <td valign="top">
+    <td width="50%">
       ### 🧰 Languages
       <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
       <!-- <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
@@ -22,7 +22,7 @@ I'm a software engineer and I really like think out, about new experiences, new 
       <!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> -->
       <br />
     </td>
-    <td valign="top">
+    <td width="50%">
     ### 🔨 Tools
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
