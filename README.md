@@ -2,7 +2,7 @@
 
 **`Code Facilitator (Developer Backend)`**
 
-I'm a software engineering student.
+I'm a software engineer and I really like think out, about new experiences, new habilities and I see the future, every day.
 
 ---
 
