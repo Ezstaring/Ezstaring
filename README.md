@@ -1,4 +1,4 @@
-<h1>Ezstaring </h1>
+<h1 align="center">StaringFocus </h1>
 
 **`Code Facilitator (Developer Backend)`**
 
