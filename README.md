@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="img/ascii-art-text StaringFocus Title.png" alt="StaringFocus Title">
 </div>
 
