@@ -1,11 +1,15 @@
 <h1 align="center">StaringFocus </h1>
 
-**`Code Facilitator (Developer Backend)`**
+<p align="center">
+  <b><code>Code Facilitator (Developer Backend)</code></b>
+</p>
 
 I'm a software engineer and I really like think out, about new experiences, new habilities and I see the future, every day.
 
 ---
+
 ### 🧰 Languages and Tools
+
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -19,5 +23,3 @@ I'm a software engineer and I really like think out, about new experiences, new 
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-  
-
